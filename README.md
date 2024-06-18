@@ -1,4 +1,4 @@
-# Natural languange Process
+# Natural Languange Process
 This project is for a natural language process university project in which you will analyze the sentences within toxic relationships,
 creating two models of multiclass classification and performing two fine tuning steps
 
